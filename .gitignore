@@ -1,2 +1,4 @@
 /.idea
-library_books.db
+library_books.db*.pyc
+__pycache__/
+.env
