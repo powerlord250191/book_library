@@ -1,4 +1,9 @@
-/.idea
-library_books.db*.pyc
 __pycache__/
+*.pyc
+venv/
+.venv/
 .env
+.idea/
+.vscode/
+*.db
+.pytest_cache/
